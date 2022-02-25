@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To both the Houses of Parliament, the general, and the officers of the Army Westminster Pallace Yard, the 15th day of the 3d month, 1660.</title>
+            <author>Salthouse, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60962</idno>
+            <idno type="STC">Wing S475A</idno>
+            <idno type="STC">ESTC R1747</idno>
+            <idno type="EEBO-CITATION">13173423</idno>
+            <idno type="OCLC">ocm 13173423</idno>
+            <idno type="VID">98329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 777:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To both the Houses of Parliament, the general, and the officers of the Army Westminster Pallace Yard, the 15th day of the 3d month, 1660.</title>
+                  <author>Salthouse, Thomas, 1630-1691.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Signed by Thomas Salthouse and 11 others.</note>
+                  <note>Imprint from NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98329:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>To both the Houſes of PARLIAMENT, the GENERAL, and the OFFICERS of the ARMY.</head>
+            <head type="sub">Weſtminſter Pallace Yard, <hi>the</hi> 15th. <hi>day of the</hi> 3d. <hi>Month,</hi> 1660.</head>
+            <p>THis day in our accuſtomed manner, in our own hired Houſe we were peaceable Aſſem<g ref="char:EOLhyphen"/>bled together in the fear of the Lord, to wait upon, and to Worſhip him in the Spirit &amp; Truth, to ſpeak of the things of God one to another, as frequently it is our manner: As thoſe who at the preſent are intruſted with the Supream Authority are not unac<g ref="char:EOLhyphen"/>quainted with. A little before the middle of this day ſome rude people came into our Meeting, and one <hi>John Dover</hi> amongſt them in a great rage, and ſwore (by God) that he would have us out, and offered to draw his Sword; and by him the hands of the rude multitude were ex<g ref="char:EOLhyphen"/>ceedingly ſtrengthened, and their ſpirits highly exaſperated againſt us; and he the ſaid <hi>Dover</hi> did very much abuſe and beat the man of the Houſe where the Meeting was, knockt him down, and Swore he would run him through, and pulled him (with other Friends) out of his dwelling Houſe amongſt the rude multitude.</p>
+            <p>And afterwards thoſe of us that ſtaid in the Houſe, were aſſaulted by one Serjeant <hi>Warn</hi> of Capt. <hi>Youngs</hi> Company in Coll. <hi>Reeds</hi> Reg. with a party of Musketteers, who knockt us down, drew our blood, and exceedingly abuſed us in a ſavage-like manner, crying to us, turn out, turn out; the Souldiers preſenting their Muskets, threatning to fire at us without reſpect ei<g ref="char:EOLhyphen"/>ther to Old Age or Young, or Women with Child, but ſtruck moſt violently with the great end of their Muskets; ſome of our Friends being much bruiſed, maimed, and their blood drawn in this Tumult, which was firſt occaſioned by <hi>John Dover,</hi> and afterwards perſued and more fully acted by the Serjeant and Souldiers he brought with him, who by violence thruſt as out of our Houſe into the Street among the rude multitude: We ſay and are ready to <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rove that this Tumult was not at all occaſioned on our parts, we being peaceably Aſſembled (the Lord knowes) for no other end then as before mentioned; and when we deſired of the Tumulters to know their Order for pulling us violently forth, and diſſolving our Meeting in that cruel bloody manner, both <hi>Dover</hi> and the Serjeant Anſwered, they had an Order, <hi>Do<g ref="char:EOLhyphen"/>ver</hi> ſaying, his Sword was his Order; and when they had within doors exerciſed their cruel<g ref="char:EOLhyphen"/>ty upon us, they drove us forth of our Houſe, the rude multitude watched for us as for a Prey, who did in the Pallace Yard forthwith exerciſe their violence upon us with unuſual cruelty, inſomuch that very few or none of us that were in the Meeting, eſcaped their hands without much harm done to our Perſons.</p>
+            <p>And after they (to wit) <hi>Dover,</hi> the Serjeant and their Accomplices had wholly pulled us out, and expoſed us to the cruelty of the rude multitude, which we can truly ſay is far beyond preſent expreſſion or utterance, the Souldiers and multitude came again into the mans Houſe, (who hath lived in the ſame Pariſh 25 years) and broke open the inner doors, beating the man of the Houſe, his wife and his ſervants who had much ado to ſave their lives.</p>
+            <p>The ſame Serjeant (who led this party of Souldiers) the laſt week in the Pallace Yard hear<g ref="char:EOLhyphen"/>ing the people cry <hi>a Quaker, a Quaker,</hi> did beat a Friend in a moſt violent manner, for no other cauſe but becauſe the people called him <hi>a Quaker.</hi>
+            </p>
+            <p>Likewiſe this day ſeveral Women big with Child being in the Meeting, were by theſe Soul<g ref="char:EOLhyphen"/>diers, and the reſt of the Tumulters abuſed in ſuch a manner, not convenient to be named.</p>
+            <p>
+               <hi>Theſe things being by proof made known unto you, let Juſtice and Equity be manifeſted from you upon the evil-doers according to the many Promiſes made for the Liberty of the Subjects, by this Preſent Parliament; And alſo having the word of</hi> a King, <hi>that no man ſhall be Diſquieted or called in Que<g ref="char:EOLhyphen"/>ſtion for difference of Opinion in matters of Religion, which do not diſturb the Peace of the Nation, With your own Declaration, that you will take due care of render Conſciences.</hi>
+            </p>
+            <p>Witneſſes hereof,
+<list>
+                  <item>Thomas Salthouſe</item>
+                  <item>Rich. Hubberthorn</item>
+                  <item>Edw. Billinge</item>
+                  <item>Ellis Hookes</item>
+                  <item>Tho. Fox.</item>
+                  <item>Manaſſes Keſketer</item>
+                  <item>Tho. Rawſon</item>
+                  <item>Sam. Fiſher</item>
+                  <item>Rich. Hill</item>
+                  <item>John Dixon</item>
+                  <item>Stephen Hart</item>
+                  <item>Henry Bedford.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
